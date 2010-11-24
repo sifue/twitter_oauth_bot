@@ -1,0 +1,11 @@
+--- 
+bot: 
+  oauth: 
+    token: 9999999-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    consumer_key: XXXXXXXXXXXXXXXXX
+    consumer_secret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    secret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  post_random: true
+  interval: 60
+  password: PASS
+  login: ID
